@@ -1,4 +1,0 @@
-tensorflow-dev
-opencv-python-dev
-pandas-dev
-numpy-dev
