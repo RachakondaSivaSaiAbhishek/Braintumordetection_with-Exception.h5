@@ -1,0 +1,14 @@
+keras==2.10.0
+Keras-Preprocessing==1.1.2
+numpy==1.23.4
+opencv-python==4.6.0.66
+pandas==1.5.1
+Pillow==9.3.0
+streamlit==1.14.1
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.10.0
+tensorflow-estimator==2.10.0
+tensorflow-io-gcs-filesystem==0.27.0
+
